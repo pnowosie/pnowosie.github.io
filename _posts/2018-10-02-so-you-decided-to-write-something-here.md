@@ -7,10 +7,10 @@ categories:
 
 # Hello World!
 
-Time has come to write something here, in this forgotten site of internet.
+Time has come to write something here, in this forgotten site of the internet.
 I started this post, like my first _C_ program many, many years ago. Do you remember your first, working soft? Was it 'Hello World'?
 
-I name it such, becase it's my _genesis_ post. A very first post.
+I name it such, becase it's my _genesis_ post. A very first one.
 
 Probably as all other posts, I'm writing it for myself only. And the purpose of the genesis post is to make me post more often. But how?
 
