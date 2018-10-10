@@ -20,11 +20,11 @@ filename = datetime.datetime.now().strftime('%Y-%m-%d-') + title.lower().replace
 front_matter = '''\
 ---
 layout: post
-title: %s
+title: "%s"
 date: %s
 categories: %s
 ---
-''' % (title, datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S'), categories)
+''' % (title, datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S +0200'), categories)
 
 # if we're in a jekyll root, pop it in ./_posts
 if(os.path.exists(os.getcwd() + '/_posts')):
