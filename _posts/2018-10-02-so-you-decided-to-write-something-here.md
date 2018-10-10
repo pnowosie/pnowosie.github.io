@@ -1,7 +1,7 @@
 ---
 layout: post
 title: So you decided to write something here
-date: 2018-10-02 22:00:48
+date: 2018-10-02 22:00:48 +0200
 categories: 
 ---
 
@@ -17,7 +17,7 @@ Probably as all other posts, I'm writing it for myself only. And the purpose of 
 Maybe I'll write a little bit more about blog's tech stack, but to keep it short, it's [jekyll-based blog](https://jekyllrb.com), hosted by [Github Pages](https://pages.github.com/). Just because I love everything git(hub).
 
 # How to create a new blog post?
-It requires to create a file in the `_posts` directory, and the file should contain a date in specified format. Too much to keep in my little head. But wait, we're living in OOP-era, right?
+It requires to create a file in the `_posts` directory, and the file should contain a date in specified format. Too much to keep in my little head. But wait, we're living in OSS-era, right?
 
 It happens that, Tom Russell already [created python script](https://gist.github.com/tomalrussell/0828db8491b99db032fe) to make this file. Thanks Buddy!
 
